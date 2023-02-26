@@ -1,1 +1,1 @@
-# AutomapperAndINotifyPropertyChanged
+# Automapper And INotifyPropertyChanged
